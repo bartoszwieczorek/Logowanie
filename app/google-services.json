@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "609938970671",
+    "firebase_url": "https://xddx-f9721.firebaseio.com",
+    "project_id": "xddx-f9721",
+    "storage_bucket": "xddx-f9721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609938970671:android:684c01f8a706d38b",
+        "android_client_info": {
+          "package_name": "e.bartek.logowanie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609938970671-5m948f6d8u3734bcecmko463vn9j3epj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpNuSlk6_TcZ5huPUs3jKOFrvMzClNcKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
